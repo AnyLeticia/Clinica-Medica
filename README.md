@@ -1,7 +1,7 @@
 # Clínica Médica  
 ## Sistema Web de Agendamento Médico
 
-![Tela de Sucesso - Agendamento](https://github.com/user-attachments/assets/exemplo/sucesso.jpg)
+![Tela de Sucesso ](https://github.com/AnyLeticia/Clinica-Medica/blob/main/imagens/sucesso.png)
 
 ### Descrição
 
@@ -21,15 +21,15 @@ Os dados dos médicos e pacientes são pré-cadastrados no banco de dados, e o u
 
 - **Tela de Login Fictício:**  
   Acesso ao sistema com usuário `admin` e senha `123`, simulado para testes acadêmicos.  
-  ![Tela de Login](https://github.com/user-attachments/assets/exemplo/login.jpg)
+  ![Tela de Login](https://github.com/AnyLeticia/Clinica-Medica/blob/main/imagens/login.png)
 
 - **Formulário de Agendamento:**  
   Permite escolher paciente, médico, data e hora.  
-  ![Formulário de Agendamento](https://github.com/user-attachments/assets/exemplo/formulario.jpg)
+  ![Formulário de Agendamento](https://github.com/AnyLeticia/Clinica-Medica/blob/main/imagens/agendamento.png)
 
 - **Mensagem de Sucesso:**  
   Após enviar o formulário, o sistema redireciona para uma tela de confirmação.  
-  ![Agendamento Sucesso](https://github.com/user-attachments/assets/exemplo/sucesso.jpg)
+  ![Agendamento Sucesso](https://github.com/AnyLeticia/Clinica-Medica/blob/main/imagens/sucesso.png)
 
 
 ### Tecnologias Utilizadas
@@ -58,8 +58,3 @@ Os dados dos médicos e pacientes são pré-cadastrados no banco de dados, e o u
 
 Projeto desenvolvido por **Any Letícia Azevedo Lourenço**  
 Acadêmica do curso de Análise e Desenvolvimento de Sistemas — Uniasselvi, 2025.
-
-
-### Observação
-
-Este sistema foi desenvolvido exclusivamente para fins educacionais e simula um processo real de agendamento médico, respeitando os critérios acadêmicos exigidos pela disciplina.
