@@ -1,7 +1,7 @@
 # Clínica Médica  
 ## Sistema Web de Agendamento Médico
 
-![Tela de Sucesso ](https://github.com/AnyLeticia/Clinica-Medica/blob/main/imagens/sucesso.png)
+![Tela de Sucesso ](https://github.com//raw.githubsercontent.com/AnyLeticia/Clinica-Medica/main/imagens/sucesso.png)
 
 ### Descrição
 
@@ -21,15 +21,15 @@ Os dados dos médicos e pacientes são pré-cadastrados no banco de dados, e o u
 
 - **Tela de Login Fictício:**  
   Acesso ao sistema com usuário `admin` e senha `123`, simulado para testes acadêmicos.  
-  ![Tela de Login](https://github.com/AnyLeticia/Clinica-Medica/blob/main/imagens/login.png)
+  ![Tela de Login](https://github.com//raw.githubsercontent.com/AnyLeticia/Clinica-Medica/main/imagens/login.png)
 
 - **Formulário de Agendamento:**  
   Permite escolher paciente, médico, data e hora.  
-  ![Formulário de Agendamento](https://github.com/AnyLeticia/Clinica-Medica/blob/main/imagens/agendamento.png)
+  ![Formulário de Agendamento](https://github.com//raw.githubsercontent.com/AnyLeticia/Clinica-Medica/main/imagens/agendamento.png)
 
 - **Mensagem de Sucesso:**  
   Após enviar o formulário, o sistema redireciona para uma tela de confirmação.  
-  ![Agendamento Sucesso](https://github.com/AnyLeticia/Clinica-Medica/blob/main/imagens/sucesso.png)
+  ![Agendamento Sucesso](https://github.com//raw.githubsercontent.com/AnyLeticia/Clinica-Medica/main/imagens/sucesso.png)
 
 
 ### Tecnologias Utilizadas
