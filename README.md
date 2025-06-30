@@ -21,7 +21,7 @@ Os dados dos médicos e pacientes são pré-cadastrados no banco de dados, e o u
 
 - **Tela de Login Fictício:**  
   Acesso ao sistema com usuário `admin` e senha `123`, simulado para testes acadêmicos.  
-  ![Tela de Login](https:raw.githubusercontent.com/AnyLeticia/Clinica-Medica/main/imagens/login.png)
+  ![Tela de Login](https://raw.githubusercontent.com/AnyLeticia/Clinica-Medica/main/imagens/login.png)
 
 - **Formulário de Agendamento:**  
   Permite escolher paciente, médico, data e hora.  
